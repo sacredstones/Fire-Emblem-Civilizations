@@ -455,8 +455,16 @@
 	
 
 
-//Magvelian
+//Magvel
+	{
+		"name": "Grado",
+		"leaderName": "Lyon",
+		"adjective": ,
+		"preferredVictoryType": "Scientific",
+		"favoredReligion": "",
 
+		"startIntroPart1": ,
+	}
 	
 
 ]
